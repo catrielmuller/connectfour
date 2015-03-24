@@ -1,0 +1,21 @@
+{
+  "name": "connectfour",
+  "version": "0.0.1",
+  "description": "Connect Four Demo",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "engines": {
+    "node": "0.10.x"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/catrielmuller/connectfour"
+  },
+  "license": "GPLv3",
+  "dependencies": {
+    "express": "^4.12.3",
+    "socket.io": "^1.3.5"
+  }
+}

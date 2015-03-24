@@ -1,0 +1,6 @@
+{
+  "name": "Connect Four",
+  "description": "Connect Four Demo",
+  "logo": "http://node-js-sample.herokuapp.com/node.svg",
+  "repository": "https://github.com/catrielmuller/connectfour",
+}
